@@ -15544,7 +15544,7 @@ $begin 'AnsoftProject'
 					FirstCellPosX='0mm'
 					FirstCellPosY='0mm'
 					FirstCellPosZ='0mm'
-					Behavior='UseSlaveSettings'
+					Behavior='UseScanAngle'
 					ScanAnglePhi='45deg'
 					ScanAngleTheta='45deg'
 					UDirnPhaseShift='0deg'
@@ -15712,12 +15712,12 @@ $begin 'AnsoftProject'
 					ID=1023
 					Name='Sweep'
 					$begin 'SimDataExtractor'
-						SimValue('St(1,1)', 2, 90, false, SimValueID=9458, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-						SimValue('St(1,2)', 2, 90, false, SimValueID=9459, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-						SimValue('Zot(1,1)', 2, 90, false, SimValueID=9460, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-						SimValue('St(2,1)', 2, 90, false, SimValueID=9461, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-						SimValue('St(1,1)', 2, 90, false, SimValueID=9462, 0, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-						SimValue('St(1,2)', 2, 90, false, SimValueID=9463, 0, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+						SimValue('St(1,1)', 2, 90, false, SimValueID=9547, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+						SimValue('St(1,2)', 2, 90, false, SimValueID=9548, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+						SimValue('Zot(1,1)', 2, 90, false, SimValueID=9549, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+						SimValue('St(2,1)', 2, 90, false, SimValueID=9550, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+						SimValue('St(1,1)', 2, 90, false, SimValueID=9551, 0, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+						SimValue('St(1,2)', 2, 90, false, SimValueID=9552, 0, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
 						$begin 'Sweeps'
 							$begin 'PostprocessSweep'
 								Variable='Freq'
@@ -24106,81 +24106,6 @@ $begin 'AnsoftProject'
 								Increment=0.0872664625997165
 								CreateIndexedSubsweepFlag=false
 							$end 'PostprocessSweep'
-							$begin 'Sweep'
-								Variable='subx'
-								Column='10mm'
-								Units='mm'
-							$end 'Sweep'
-							$begin 'Sweep'
-								Variable='suby'
-								Column='2237um;2357um;2477um;2517um;2597um'
-								Units='um'
-							$end 'Sweep'
-							$begin 'Sweep'
-								Variable='subz'
-								Column='500um'
-								Units='um'
-							$end 'Sweep'
-							$begin 'Sweep'
-								Variable='s'
-								Column='60um'
-								Units='um'
-							$end 'Sweep'
-							$begin 'Sweep'
-								Variable='g'
-								Column='28.5um'
-								Units='um'
-							$end 'Sweep'
-							$begin 'Sweep'
-								Variable='gnd_width'
-								Column='60um;120um;180um;200um;240um'
-								Units='um'
-							$end 'Sweep'
-							$begin 'Sweep'
-								Variable='Tmet'
-								Column='2um'
-								Units='um'
-							$end 'Sweep'
-							$begin 'Sweep'
-								Variable='air_box_h'
-								Column='15500um'
-								Units='um'
-							$end 'Sweep'
-							$begin 'Sweep'
-								Variable='porty'
-								Column='351um'
-								Units='um'
-							$end 'Sweep'
-							$begin 'Sweep'
-								Variable='portz'
-								Column='1000um'
-								Units='um'
-							$end 'Sweep'
-							$begin 'Sweep'
-								Variable='airx'
-								Column='10mm'
-								Units='mm'
-							$end 'Sweep'
-							$begin 'Sweep'
-								Variable='airy'
-								Column='17237um;17357um;17477um;17517um;17597um'
-								Units='um'
-							$end 'Sweep'
-							$begin 'Sweep'
-								Variable='abpillarx'
-								Column='20um'
-								Units='um'
-							$end 'Sweep'
-							$begin 'Sweep'
-								Variable='abpillary'
-								Column='20um'
-								Units='um'
-							$end 'Sweep'
-							$begin 'Sweep'
-								Variable='abpillarz'
-								Column='4um'
-								Units='um'
-							$end 'Sweep'
 						$end 'Sweeps'
 						IsPortOnly=false
 					$end 'SimDataExtractor'
@@ -24314,12 +24239,12 @@ $begin 'AnsoftProject'
 					ID=1023
 					Name='Sweep'
 					$begin 'SimDataExtractor'
-						SimValue('St(1,1)', 2, 90, false, SimValueID=8498, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-						SimValue('St(1,2)', 2, 90, false, SimValueID=8499, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-						SimValue('Zot(1,1)', 2, 90, false, SimValueID=8500, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-						SimValue('St(2,1)', 2, 90, false, SimValueID=8501, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-						SimValue('St(1,1)', 2, 90, false, SimValueID=8502, 0, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-						SimValue('St(1,2)', 2, 90, false, SimValueID=8503, 0, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+						SimValue('St(1,1)', 2, 90, false, SimValueID=8566, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+						SimValue('St(1,2)', 2, 90, false, SimValueID=8567, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+						SimValue('Zot(1,1)', 2, 90, false, SimValueID=8568, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+						SimValue('St(2,1)', 2, 90, false, SimValueID=8569, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+						SimValue('St(1,1)', 2, 90, false, SimValueID=8570, 0, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+						SimValue('St(1,2)', 2, 90, false, SimValueID=8571, 0, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
 						$begin 'Sweeps'
 							$begin 'PostprocessSweep'
 								Variable='Freq'
@@ -35938,7 +35863,7 @@ $begin 'AnsoftProject'
 									$end 'DocDefaultAttributes'
 									$begin 'PerViewPlotAttributeStoreMap'
 										$begin 'MapItem'
-											ItemID=100
+											ItemID=-1
 											$begin 'PlotAttributeStoreMap'
 												$begin 'MainMapItem'
 													$begin 'SubMapItem'
@@ -36197,8 +36122,6 @@ $begin 'AnsoftProject'
 									Version='17.0:20150830'
 									$begin 'DocAttributes'
 										$begin 'PlotAttributeStoreMap'
-											$begin 'MainMapItem'
-											$end 'MainMapItem'
 											$begin 'MainMapItem'
 												$begin 'SubMapItem'
 													DataSourceID=1
@@ -37672,7 +37595,7 @@ $begin 'AnsoftProject'
 									$end 'DocDefaultAttributes'
 									$begin 'PerViewPlotAttributeStoreMap'
 										$begin 'MapItem'
-											ItemID=110
+											ItemID=-1
 											$begin 'PlotAttributeStoreMap'
 												$begin 'MainMapItem'
 													$begin 'SubMapItem'
@@ -38370,7 +38293,7 @@ $begin 'AnsoftProject'
 									$end 'DocDefaultAttributes'
 									$begin 'PerViewPlotAttributeStoreMap'
 										$begin 'MapItem'
-											ItemID=18
+											ItemID=-1
 											$begin 'PlotAttributeStoreMap'
 												$begin 'MainMapItem'
 													$begin 'SubMapItem'
@@ -38984,7 +38907,7 @@ $begin 'AnsoftProject'
 									$end 'DocDefaultAttributes'
 									$begin 'PerViewPlotAttributeStoreMap'
 										$begin 'MapItem'
-											ItemID=17
+											ItemID=-1
 											$begin 'PlotAttributeStoreMap'
 												$begin 'MainMapItem'
 													$begin 'SubMapItem'
@@ -40818,7 +40741,7 @@ $begin 'AnsoftProject'
 									$end 'DocDefaultAttributes'
 									$begin 'PerViewPlotAttributeStoreMap'
 										$begin 'MapItem'
-											ItemID=89
+											ItemID=-1
 											$begin 'PlotAttributeStoreMap'
 												$begin 'MainMapItem'
 													$begin 'SubMapItem'
@@ -41157,7 +41080,7 @@ $begin 'AnsoftProject'
 								Title=''
 								Domain=''
 								$begin 'Migration'
-									MigVersion(0, 0, 'mig(0.0)')
+									MigVersion(1, 0, '2021R1 mig(1.0)')
 								$end 'Migration'
 								$begin 'Graph2DsV2'
 									$begin 'Graph2D'
@@ -42615,7 +42538,7 @@ $begin 'AnsoftProject'
 									$end 'DocDefaultAttributes'
 									$begin 'PerViewPlotAttributeStoreMap'
 										$begin 'MapItem'
-											ItemID=36
+											ItemID=-1
 											$begin 'PlotAttributeStoreMap'
 												$begin 'MainMapItem'
 													$begin 'SubMapItem'
@@ -42721,6 +42644,30 @@ $begin 'AnsoftProject'
 																	ModifyPosition=true
 																$end 'OverlayLayoutAttribute'
 															$end 'Dock_0'
+															$begin 'Dock_1'
+																$begin 'OverlayLayoutAttribute'
+																	$begin 'BoundingRect'
+																		Top=8986
+																		Left=0
+																		Bottom=10000
+																		Right=10000
+																	$end 'BoundingRect'
+																	ModifySize=false
+																	ModifyPosition=true
+																$end 'OverlayLayoutAttribute'
+															$end 'Dock_1'
+															$begin 'Dock_2'
+																$begin 'OverlayLayoutAttribute'
+																	$begin 'BoundingRect'
+																		Top=0
+																		Left=0
+																		Bottom=1014
+																		Right=10000
+																	$end 'BoundingRect'
+																	ModifySize=false
+																	ModifyPosition=true
+																$end 'OverlayLayoutAttribute'
+															$end 'Dock_2'
 														$end 'DockableOverlayLayoutAttribute'
 													$end 'SubMapItem'
 												$end 'MainMapItem'
