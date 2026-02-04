@@ -1,0 +1,19 @@
+(CIF written by CleWin 5.0);
+(Nanofabrication Center);
+(University of Minnesota);
+(200 Union St SE);
+(Minneapolis, MN 55455);
+(Layer names);
+L L0; (CleWin: 0 Outline/06808000 06808000);
+L L1; (CleWin: 1 Au/0f02e8fe 0f02e8fe);
+L L2; (CleWin: 2 margin/06a0a020 060f30e8);
+L L3; (CleWin: 3 gaps/0fb9bcc6 0fb9bcc6);
+L L4; (CleWin: 4 alignment_1/0f800080 0f800080);
+(Top level);
+DS1 100000 1;
+9 MainSymbol;
+L L0;
+B 50 50 25 -25;
+DF;
+C 1;
+E
