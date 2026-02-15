@@ -8405,8 +8405,6 @@ $begin 'AnsoftProject'
 		$begin 'PortFieldDisplay'
 			$begin 'PortFieldDisplay'
 				ScaleFactor=5
-				Solution='broadband : LastAdaptive'
-				Frequency='22.5GHz'
 			$end 'PortFieldDisplay'
 		$end 'PortFieldDisplay'
 		$begin 'FieldsReporter'
@@ -8632,7 +8630,6 @@ $begin 'AnsoftProject'
 					ID=1023
 					Name='interpolating'
 					$begin 'SimDataExtractor'
-						SimValue('St(1,1)', 2, 90, false, SimValueID=8333, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
 						$begin 'Sweeps'
 							$begin 'PostprocessSweep'
 								Variable='Freq'
@@ -8717,7 +8714,7 @@ $begin 'AnsoftProject'
 		Notes=$begin_cdata$ $end_cdata$
 		$begin 'AnimationSetups'
 		$end 'AnimationSetups'
-		CacheHeaderFile='HDR7C862979217707934614.tmp'
+		CacheHeaderFile='HDR4F7B17756177118127012.tmp'
 	$end 'HFSSModel'
 	$begin 'HFSSModel'
 		RepRewriteV2=true
@@ -21145,8 +21142,6 @@ $begin 'AnsoftProject'
 		$begin 'PortFieldDisplay'
 			$begin 'PortFieldDisplay'
 				ScaleFactor=5
-				Solution='broadband : LastAdaptive'
-				Frequency='20.5GHz'
 			$end 'PortFieldDisplay'
 		$end 'PortFieldDisplay'
 		$begin 'FieldsReporter'
@@ -21372,11 +21367,6 @@ $begin 'AnsoftProject'
 					ID=241
 					Name='Sweep'
 					$begin 'SimDataExtractor'
-						SimValue('St(1,1)', 2, 90, false, SimValueID=576, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-						SimValue('Y(1,1)', 2, 90, false, SimValueID=577, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-						SimValue('Y(2,1)', 2, 90, false, SimValueID=578, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-						SimValue('Yt(1,2)', 2, 90, false, SimValueID=579, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-						SimValue('St(2,1)', 2, 90, false, SimValueID=580, 3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
 						$begin 'Sweeps'
 							$begin 'PostprocessSweep'
 								Variable='Freq'
@@ -21461,7 +21451,7 @@ $begin 'AnsoftProject'
 		Notes=$begin_cdata$ $end_cdata$
 		$begin 'AnimationSetups'
 		$end 'AnimationSetups'
-		CacheHeaderFile='HDR2D5729792177079728823.tmp'
+		CacheHeaderFile='HDR4F7B17756177118127013.tmp'
 	$end 'HFSSModel'
 	$begin 'DataInstances'
 		DesignEditor='TopLevel'
@@ -21502,7 +21492,7 @@ $begin 'AnsoftProject'
 				DesignInstanceID=4
 				$begin 'WindowPosition'
 					$begin 'EditorWindow'
-						Circuit(Editor3d(View('View Orientation Gadget'=1, WindowPos(3, -1, -1, -8, -31, 182, 182, 1187, 610), OrientationMatrix(0.711476564407349, -0.160433635115623, 0.29208567738533, 0, 0.331416845321655, 0.268585503101349, -0.659754276275635, 0, 0.0348715558648109, 0.720675528049469, 0.310903370380402, 0, -0.0883703231811523, -0.39140385389328, -5.97282791137695, 1, 0, -1.34101128578186, 1.33794963359833, -0.878819108009338, 0.789682269096375, -39.3407859802246, 51.2864418029785), Drawings[18: 'substrate', 'gnd_2', 'signal', 'gnd_1', 'Cylinder1', 'Cylinder1_1', 'Cylinder2', 'chip', 'Port2', 'Port1', 'trace_overlap', 'chip_Section1_SweepFaceAlongNormal3', 'chip_SweepFaceAlongNormal1_Section1_SweepFaceAlongNormal3', 'chip_Section1_SweepFaceAlongNormal1_SweepFaceAlongNormal1_SweepFaceAlongNormal1', 'chip_SweepFaceAlongNormal1_Section1_SweepFaceAlongNormal1_SweepFaceAlongNormal1_SweepFaceAlongNormal1', 'chip_Section1_SweepFaceAlongNormal2_SweepFaceAlongNormal1_SweepFaceAlongNormal1', 'chip_SweepFaceAlongNormal1_Section1_SweepFaceAlongNormal2_SweepFaceAlongNormal1_SweepFaceAlongNormal1', 'bottom_gnd'], 'View Data'('Render Mode'=1, 'Show Ruler'=1, 'Coordinate Systems View Mode'=1, 'CS Triad View Mode'=0, 'Render Facets'=1, GridVisible=1, GridAutoAdjust=1, GridAutoExtents=1, GridType='Rect', GridStyle='Line', NumPixels=30, dXForGrid=0.1, dYForGrid=0.1, dZForGrid=0.1, dRForGrid=0.1, dThetaForGrid=10), ClipPlanes(ClipPlaneOptions(DisableWhenDrawingNewPlane=true, ForceOpqaueForUnclipped=false, ShowClipped=false, Transparency=0, HandleColor=16776960)))))
+						Circuit(Editor3d(View('View Orientation Gadget'=1, WindowPos(3, -1, -1, -8, -31, 182, 182, 1187, 610), OrientationMatrix(0.711476564407349, -0.160433635115623, 0.29208567738533, 0, 0.331416845321655, 0.268585503101349, -0.659754276275635, 0, 0.0348715558648109, 0.720675528049469, 0.310903370380402, 0, -0.0883703231811523, -0.39140385389328, -5.97282791137695, 1, 0, -1.71491551399231, 2.04496550559998, -0.880225121974945, 0.821409225463867, -39.3408241271973, 51.2864799499512), Drawings[34: 'substrate', 'gnd_2', 'signal', 'gnd_1', 'Cylinder1', 'Cylinder1_1', 'Cylinder2', 'chip', 'Port2', 'Port1', 'trace_overlap', 'chip_Section1_SweepFaceAlongNormal3', 'chip_SweepFaceAlongNormal1_Section1_SweepFaceAlongNormal3', 'chip_Section1_SweepFaceAlongNormal1_SweepFaceAlongNormal1_SweepFaceAlongNormal1', 'chip_SweepFaceAlongNormal1_Section1_SweepFaceAlongNormal1_SweepFaceAlongNormal1_SweepFaceAlongNormal1', 'chip_Section1_SweepFaceAlongNormal2_SweepFaceAlongNormal1_SweepFaceAlongNormal1', 'chip_SweepFaceAlongNormal1_Section1_SweepFaceAlongNormal2_SweepFaceAlongNormal1_SweepFaceAlongNormal1', 'bottom_gnd', 'substrate_signal_dummy', 'substrate_gap1_dummy', 'substrate_gnd1_dummy', 'substrate_gap2_dummy', 'substrate_gnd2_dummy', 'trace_overlap_signal_dummy', 'chip_signal_dummy', 'chip_gap1_dummy', 'trace_overlap_gap1_dummy', 'chip_gap2_dummy', 'trace_overlap_gap2_dummy', 'trace_overlap_gnd1_dummy', 'chip_gnd1_dummy', 'chip_gnd2_dummy', 'trace_overlap_gnd2_dummy', 'Box1'], 'View Data'('Render Mode'=1, 'Show Ruler'=1, 'Coordinate Systems View Mode'=1, 'CS Triad View Mode'=0, 'Render Facets'=1, GridVisible=1, GridAutoAdjust=1, GridAutoExtents=1, GridType='Rect', GridStyle='Line', NumPixels=30, dXForGrid=0.1, dYForGrid=0.1, dZForGrid=0.1, dRForGrid=0.1, dThetaForGrid=10), ClipPlanes(ClipPlaneOptions(DisableWhenDrawingNewPlane=true, ForceOpqaueForUnclipped=false, ShowClipped=false, Transparency=0, HandleColor=16776960)))))
 					$end 'EditorWindow'
 				$end 'WindowPosition'
 				$begin 'ReportSetup'
@@ -30343,7 +30333,7 @@ Xg7wj4B8P6f4S8CeFvDngrwrpP2v8Asrwz4S0PTPDnh/TPt97c6nff2fo2j2sNtZ+dqV5eXEvlxr5k9\
 		DesignName='transition_modelling'
 		Notes=''
 		Factory='HFSS'
-		IsSolved=true
+		IsSolved=false
 		'Nominal Setups'[1: 'broadband']
 		'Nominal Setup Types'[1: '']
 		'Optimetrics Setups'[0:]
@@ -30522,7 +30512,7 @@ CiiigD//2Q=='
 		DesignName='through_line'
 		Notes=''
 		Factory='HFSS'
-		IsSolved=true
+		IsSolved=false
 		'Nominal Setups'[1: 'broadband']
 		'Nominal Setup Types'[1: '']
 		'Optimetrics Setups'[1: 'gnd_width']
