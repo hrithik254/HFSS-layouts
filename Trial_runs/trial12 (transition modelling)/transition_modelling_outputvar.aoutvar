@@ -1,0 +1,5 @@
+lost_power_fraction '1-(mag(St(1,1))^2 + mag(St(2,1))^2)' Double '' dBTypeDoesntCare
+Zl 'mag(Zo(1))*(1-mag(S(1,1)))/(1+mag(S(1,1)))' Double '' dBTypeDoesntCare
+L '-im(1/Yt(1,2))/(2*3.14*Freq)' Double '' dBTypeDoesntCare
+C_chip '(im(Y(1,1) + Y(2,1)) )/ (2 * pi * Freq)' Double '' dBTypeDoesntCare
+C_sub '(im(Y(2,2) + Y(2,1)) )/ (2 * pi * Freq)' Double '' dBTypeDoesntCare
