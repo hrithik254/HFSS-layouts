@@ -1,0 +1,9 @@
+----------------------14th March 2025----------------------------
+
+This folder contans all the HFSS simulations that I have. Different simulations are meant for cheching different thing. These were made as learnt to use the software.
+
+
+---------------------------------date of writing updating the readme ------------------
+
+
+lore ipsum....n2fiuuuiuv4y write here next time
