@@ -6,7 +6,8 @@ One belongs of the 4 10x20 sapphire samples
 one belongs to the 3 1/4 th 4" sapphire wafers used for through lines
 and one belongs to the flip chip bonding first trial. 
 
----------------------------------date of writing updating the readme ------------------
 
 
-lore ipsum....n2fiuuuiuv4y write here next time
+
+----------------------next update -------------------------------
+efibrechjubqerjbebve
