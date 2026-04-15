@@ -9,5 +9,6 @@ and one belongs to the flip chip bonding first trial.
 
 
 
-----------------------next update -------------------------------
-efibrechjubqerjbebve
+----------------------12 april -------------------------------
+today i added the pictures taken yesterday. the pictures shows the presence of pinholes in all stages of the sample.
+from the bare newly sputtered wafers to the diced and paterened wafers. I should inspect other samples under the uscope too.

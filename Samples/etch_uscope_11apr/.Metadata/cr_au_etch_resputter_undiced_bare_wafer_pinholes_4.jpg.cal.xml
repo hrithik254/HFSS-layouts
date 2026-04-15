@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/LeicaMicrosystems.DataEntities.V3_2">
+  <Id>2030abd0-8396-4491-aa9c-6ecf940d7ab1</Id>
+  <ParentId i:nil="true" />
+  <LinkedItemId i:nil="true" />
+  <Type>Computer</Type>
+  <SubType i:nil="true" />
+  <Index i:nil="true" />
+  <Name>Computer</Name>
+  <FolderTypeId i:nil="true" />
+  <Keywords i:nil="true" />
+  <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
+  <Owner i:nil="true" />
+  <Reader i:nil="true" />
+  <Children>
+    <Item>
+      <Id>e590baa8-6584-45f6-9580-d4874b36de82</Id>
+      <ParentId>2030abd0-8396-4491-aa9c-6ecf940d7ab1</ParentId>
+      <LinkedItemId i:nil="true" />
+      <Type>Drive</Type>
+      <SubType>New Volume (D:)</SubType>
+      <Index i:nil="true" />
+      <Name>D:\</Name>
+      <FolderTypeId i:nil="true" />
+      <Keywords i:nil="true" />
+      <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
+      <Owner i:nil="true" />
+      <Reader i:nil="true" />
+      <Children>
+        <Item>
+          <Id>f5c141f0-fc2a-4f0e-b668-0ba66929c63d</Id>
+          <ParentId>e590baa8-6584-45f6-9580-d4874b36de82</ParentId>
+          <LinkedItemId i:nil="true" />
+          <Type>Folder</Type>
+          <SubType i:nil="true" />
+          <Index i:nil="true" />
+          <Name>hrithik_singla_wet_etch_uscope</Name>
+          <FolderTypeId i:nil="true" />
+          <Keywords i:nil="true" />
+          <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
+          <Owner i:nil="true" />
+          <Reader i:nil="true" />
+          <Children>
+            <Item>
+              <Id>0907de33-e741-4d4b-a445-169d95260f35</Id>
+              <ParentId>f5c141f0-fc2a-4f0e-b668-0ba66929c63d</ParentId>
+              <LinkedItemId i:nil="true" />
+              <Type>Folder</Type>
+              <SubType i:nil="true" />
+              <Index i:nil="true" />
+              <Name>11apr</Name>
+              <FolderTypeId i:nil="true" />
+              <Keywords i:nil="true" />
+              <LastModifiedDate>2026-04-11T16:50:47.7856074+05:30</LastModifiedDate>
+              <Owner i:nil="true" />
+              <Reader i:nil="true" />
+              <Children>
+                <Item>
+                  <Id>87812c46-5576-4a7a-b9cf-ddcb031f73f2</Id>
+                  <ParentId>0907de33-e741-4d4b-a445-169d95260f35</ParentId>
+                  <LinkedItemId i:nil="true" />
+                  <Type>Collection</Type>
+                  <SubType>Image</SubType>
+                  <Index i:nil="true" />
+                  <Name>cr_au_etch_resputter_undiced_bare_wafer_pinholes_4.jpg</Name>
+                  <FolderTypeId i:nil="true" />
+                  <Keywords></Keywords>
+                  <LastModifiedDate>2026-04-11T16:50:48.9856074+05:30</LastModifiedDate>
+                  <Owner i:nil="true" />
+                  <Reader i:nil="true" />
+                  <Children>
+                    <Item>
+                      <Id>944df19c-70af-47de-8068-e7a5d1772e4d</Id>
+                      <ParentId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</ParentId>
+                      <LinkedItemId i:nil="true" />
+                      <Type>Leaf</Type>
+                      <SubType>Image</SubType>
+                      <Index i:nil="true" />
+                      <Name>cr_au_etch_resputter_undiced_bare_wafer_pinholes_4.jpg</Name>
+                      <FolderTypeId i:nil="true" />
+                      <Keywords></Keywords>
+                      <LastModifiedDate>2026-04-11T16:50:48.9836074+05:30</LastModifiedDate>
+                      <Owner i:nil="true" />
+                      <Reader i:nil="true" />
+                      <Children>
+                        <Item>
+                          <Id>f29535b0-87e7-49cf-af0b-8535a1f6d058</Id>
+                          <ParentId>944df19c-70af-47de-8068-e7a5d1772e4d</ParentId>
+                          <LinkedItemId i:nil="true" />
+                          <Type>Derived</Type>
+                          <SubType>Image</SubType>
+                          <Index i:nil="true" />
+                          <Name>cr_au_etch_resputter_undiced_bare_wafer_pinholes_4.jpg.thb</Name>
+                          <FolderTypeId i:nil="true" />
+                          <Keywords></Keywords>
+                          <LastModifiedDate>2026-04-11T16:50:48.9836074+05:30</LastModifiedDate>
+                          <Owner i:nil="true" />
+                          <Reader i:nil="true" />
+                        </Item>
+                      </Children>
+                    </Item>
+                    <Item>
+                      <Id>7a7b0b62-ac50-46b4-a88e-e0c18e808d8c</Id>
+                      <ParentId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</ParentId>
+                      <LinkedItemId i:nil="true" />
+                      <Type>Leaf</Type>
+                      <SubType>DXAnnotationData</SubType>
+                      <Index i:nil="true" />
+                      <Name>cr_au_etch_resputter_undiced_bare_wafer_pinholes_4.jpg.anx</Name>
+                      <FolderTypeId i:nil="true" />
+                      <Keywords></Keywords>
+                      <LastModifiedDate>2026-04-11T16:50:48.0586074+05:30</LastModifiedDate>
+                      <Owner i:nil="true" />
+                      <Reader i:nil="true" />
+                    </Item>
+                    <Item>
+                      <Id>21ebbcac-2537-49e0-8395-c67e3fde1dfc</Id>
+                      <ParentId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</ParentId>
+                      <LinkedItemId i:nil="true" />
+                      <Type>Leaf</Type>
+                      <SubType>DXScaleBarSettingsData</SubType>
+                      <Index i:nil="true" />
+                      <Name>cr_au_etch_resputter_undiced_bare_wafer_pinholes_4.jpg.sbx</Name>
+                      <FolderTypeId i:nil="true" />
+                      <Keywords></Keywords>
+                      <LastModifiedDate>2026-04-11T16:50:48.0596074+05:30</LastModifiedDate>
+                      <Owner i:nil="true" />
+                      <Reader i:nil="true" />
+                    </Item>
+                    <Item>
+                      <Id>a37c5df4-3e0e-4da6-b8c9-ca8b7e9f7e2e</Id>
+                      <ParentId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</ParentId>
+                      <LinkedItemId i:nil="true" />
+                      <Type>Leaf</Type>
+                      <SubType>DXExtendedAnnotationData</SubType>
+                      <Index i:nil="true" />
+                      <Name>cr_au_etch_resputter_undiced_bare_wafer_pinholes_4.jpg.eax</Name>
+                      <FolderTypeId i:nil="true" />
+                      <Keywords></Keywords>
+                      <LastModifiedDate>2026-04-11T16:50:48.0596074+05:30</LastModifiedDate>
+                      <Owner i:nil="true" />
+                      <Reader i:nil="true" />
+                    </Item>
+                  </Children>
+                  <ItemValues>
+                    <ItemValue>
+                      <Id>e6fa865e-4777-4c7b-8a34-3ee42fea88fe</Id>
+                      <ItemId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</ItemId>
+                      <Name>Image_Description</Name>
+                      <Value xmlns:d12p1="http://www.w3.org/2001/XMLSchema" i:type="d12p1:string"></Value>
+                    </ItemValue>
+                    <ItemValue>
+                      <Id>0ca9c5a6-923e-4f5d-8caa-85e20829dfee</Id>
+                      <ItemId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</ItemId>
+                      <Name>Image_Notes</Name>
+                      <Value xmlns:d12p1="http://www.w3.org/2001/XMLSchema" i:type="d12p1:string"></Value>
+                    </ItemValue>
+                  </ItemValues>
+                  <LasImage>
+                    <Id>87812c46-5576-4a7a-b9cf-ddcb031f73f2</Id>
+                    <Included>false</Included>
+                    <Processed>true</Processed>
+                    <UnitName>Microns</UnitName>
+                    <CreationUserName>Smart-PC\Smart</CreationUserName>
+                    <ModificationUserName>Smart-PC\Smart</ModificationUserName>
+                    <AcquiredDate>2026-04-11T16:50:48.0536074+05:30</AcquiredDate>
+                    <CreationDate>2026-04-11T16:50:47.7856074+05:30</CreationDate>
+                    <ImportDate i:nil="true" />
+                    <XMetresPerPixel>8.5022050602855177E-07</XMetresPerPixel>
+                    <YMetresPerPixel>8.5022050602855177E-07</YMetresPerPixel>
+                    <BitDepth>24</BitDepth>
+                    <NumPixelsX>2592</NumPixelsX>
+                    <NumPixelsY>1944</NumPixelsY>
+                    <FileSize>4182863</FileSize>
+                    <DecimalPlaces>3</DecimalPlaces>
+                    <Camera>
+                      <Id>87812c46-5576-4a7a-b9cf-ddcb031f73f2</Id>
+                      <Name>MC170 HD</Name>
+                      <Serial_Number>51165045</Serial_Number>
+                      <Exposure>500.0 ms</Exposure>
+                      <Gamma>0.80</Gamma>
+                      <Gain>12.0 x</Gain>
+                      <Auto_Exposure>On</Auto_Exposure>
+                      <Brightness>90 %</Brightness>
+                      <Black_Clip>0</Black_Clip>
+                      <White_Clip>255</White_Clip>
+                      <Image_Type>Colour</Image_Type>
+                      <Capture_Format>2592 x 1944</Capture_Format>
+                      <Shading></Shading>
+                      <Sharpening>Off</Sharpening>
+                    </Camera>
+                    <ImageValues>
+                      <ImageValue>
+                        <Id>28cc266f-fae3-4b05-91ae-d20105aecd47</Id>
+                        <LasImageId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</LasImageId>
+                        <Name>Microscope_Stand_Name</Name>
+                        <Type>System.String</Type>
+                        <Value xmlns:d13p1="http://www.w3.org/2001/XMLSchema" i:type="d13p1:string">DM750</Value>
+                      </ImageValue>
+                      <ImageValue>
+                        <Id>49759400-2c55-4ef2-bfcd-4ac5c907616e</Id>
+                        <LasImageId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</LasImageId>
+                        <Name>Microscope_Stand_Configuration_Software_Version_Infos</Name>
+                        <Type>System.String</Type>
+                        <Value xmlns:d13p1="http://www.w3.org/2001/XMLSchema" i:type="d13p1:string">O969F297</Value>
+                      </ImageValue>
+                      <ImageValue>
+                        <Id>7862cb76-d1cf-4b55-9b3b-1ece431660b8</Id>
+                        <LasImageId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</LasImageId>
+                        <Name>Microscope_Ports_Port_Name</Name>
+                        <Type>System.String</Type>
+                        <Value xmlns:d13p1="http://www.w3.org/2001/XMLSchema" i:type="d13p1:string">VISUAL</Value>
+                      </ImageValue>
+                      <ImageValue>
+                        <Id>a7791caa-5b10-4d96-84fc-fe4f81a67f38</Id>
+                        <LasImageId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</LasImageId>
+                        <Name>Microscope_Ports_Port_Magnification</Name>
+                        <Type>System.String</Type>
+                        <Value xmlns:d13p1="http://www.w3.org/2001/XMLSchema" i:type="d13p1:string">10</Value>
+                      </ImageValue>
+                      <ImageValue>
+                        <Id>bc8a0b91-7e3c-4e28-9bb4-53fde8964b8b</Id>
+                        <LasImageId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</LasImageId>
+                        <Name>Microscope_Ports_Port_Article_No</Name>
+                        <Type>System.String</Type>
+                        <Value xmlns:d13p1="http://www.w3.org/2001/XMLSchema" i:type="d13p1:string">13613530</Value>
+                      </ImageValue>
+                      <ImageValue>
+                        <Id>fb5b9d22-8c12-4add-90f2-709dff65cd9c</Id>
+                        <LasImageId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</LasImageId>
+                        <Name>Microscope_Ports_Num</Name>
+                        <Type>System.String</Type>
+                        <Value xmlns:d13p1="http://www.w3.org/2001/XMLSchema" i:type="d13p1:string">2</Value>
+                      </ImageValue>
+                      <ImageValue>
+                        <Id>36253206-3574-4b3e-bca2-e9535ca8b7ee</Id>
+                        <LasImageId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</LasImageId>
+                        <Name>Microscope_Nosepiece_Objective_Magnification</Name>
+                        <Type>System.String</Type>
+                        <Value xmlns:d13p1="http://www.w3.org/2001/XMLSchema" i:type="d13p1:string">5</Value>
+                      </ImageValue>
+                      <ImageValue>
+                        <Id>9e85abca-9247-4044-82fe-2c7a4359acc0</Id>
+                        <LasImageId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</LasImageId>
+                        <Name>Microscope_Nosepiece_Objective_Article_No</Name>
+                        <Type>System.String</Type>
+                        <Value xmlns:d13p1="http://www.w3.org/2001/XMLSchema" i:type="d13p1:string">11566071</Value>
+                      </ImageValue>
+                      <ImageValue>
+                        <Id>faa06dd0-a2a6-4dc0-b50a-ef7192876e6f</Id>
+                        <LasImageId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</LasImageId>
+                        <Name>Microscope_Nosepiece_Objective_Aperture</Name>
+                        <Type>System.String</Type>
+                        <Value xmlns:d13p1="http://www.w3.org/2001/XMLSchema" i:type="d13p1:string">0.12</Value>
+                      </ImageValue>
+                      <ImageValue>
+                        <Id>10530ce6-9162-4602-b203-b4bfefbe3484</Id>
+                        <LasImageId>87812c46-5576-4a7a-b9cf-ddcb031f73f2</LasImageId>
+                        <Name>Microscope_Nosepiece_Objective_Type</Name>
+                        <Type>System.String</Type>
+                        <Value xmlns:d13p1="http://www.w3.org/2001/XMLSchema" i:type="d13p1:string">DRY</Value>
+                      </ImageValue>
+                    </ImageValues>
+                  </LasImage>
+                </Item>
+              </Children>
+            </Item>
+          </Children>
+        </Item>
+      </Children>
+    </Item>
+  </Children>
+</Item>
