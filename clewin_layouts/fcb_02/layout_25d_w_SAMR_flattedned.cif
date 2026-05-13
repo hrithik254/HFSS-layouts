@@ -10,7 +10,7 @@ L L2; (CleWin: 2 slots/0fbb0cf0 0fbb0cf0);
 L L3; (CleWin: 3 gaps/0ff3cfcc 0ff3cfcc);
 L L5; (CleWin: 5 pillars/0f38f906 0f38f906);
 (Top level);
-DS31 1 10;
+DS1 1 10;
 9 MainSymbol;
 (C5HGuide 1 0);
 (C5VGuide 1 0);
@@ -105496,5 +105496,5 @@ B 10000000 4000000 7000000 48000000;
 L L5;
 B 10000000 4000000 7000000 48000000;
 DF;
-C 31;
+C 1;
 E
